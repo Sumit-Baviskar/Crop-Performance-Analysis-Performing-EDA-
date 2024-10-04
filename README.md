@@ -27,6 +27,9 @@ Generate hypotheses for further analysis: Based on the trends and patterns ident
 In summary, EDA will provide a solid foundation for understanding the agricultural crop yield data and ensure that it is well-prepared for more advanced analyses. The insights gained during this stage will be invaluable for making data-driven decisions related to crop management and agricultural productivity improvements.
 
 
+# :paperclip: **Dataset Link :** 
+
+https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield?resource=download
 
 # :paperclip: **About Dataset :**
 
