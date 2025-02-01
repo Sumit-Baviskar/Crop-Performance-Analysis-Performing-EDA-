@@ -3,7 +3,6 @@
 ### **Data Analysis for Crop Performance Analysis (Performing EDA)**
 
 
-
 # :round_pushpin: **Introduction :**  :round_pushpin: 
 Exploratory Data Analysis (EDA) is an essential process in the early stages of data analysis projects. It involves using statistical techniques and data visualization methods to explore and summarize the main characteristics of a dataset. The goal of EDA is to better understand the structure of the data, detect any anomalies, and identify important relationships between variables that could inform more detailed analysis later on.
 
