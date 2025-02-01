@@ -1,6 +1,6 @@
 # :chart_with_upwards_trend: **Exploratory Data Analysis Project (Python)** :chart_with_upwards_trend:
 
-Data Analysis of Agricultural Yield Factors​ (Performing EDA)
+### **Data Analysis for Crop Performance Analysis (Performing EDA)**
 
 
 
