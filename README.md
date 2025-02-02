@@ -1,4 +1,4 @@
-# :chart_with_upwards_trend: **Crop Performance Analysis (Performing EDA** :chart_with_upwards_trend:
+# :chart_with_upwards_trend: **Crop Performance Analysis (Performing EDA)** :chart_with_upwards_trend:
 
 ### **Data Analysis for Crop Performance Analysis (Performing EDA)**
 
